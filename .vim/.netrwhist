@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/erw/.local'
+let g:netrw_dirhist_6='/Users/erw/.kube/http-cache'
+let g:netrw_dirhist_5='/Users/erw/go/src/goms.io/aks/rp/ccp/charts/kube-control-plane/tests/snapshots/control-plane-and-agent-use-different-hyperkube.yaml'
+let g:netrw_dirhist_4='/Users/erw/go/src/goms.io/aks/rp/ccp/charts/kube-control-plane/tests/snapshots/azurepolicy-v2-disabled-mcr.yaml'
+let g:netrw_dirhist_3='/Users/erw/go/src/goms.io/aks/rp/ccp/charts/kube-control-plane/tests/snapshots/full-usnat.yaml'
+let g:netrw_dirhist_2='/Users/erw/go/src/goms.io/aks/rp/overlaymgr/server/helmctlr/helmvalues/fixtures'
+let g:netrw_dirhist_1='/Users/erw/go/src/goms.io/aks/rp/makefiles'

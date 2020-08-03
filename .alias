@@ -1,0 +1,23 @@
+alias ll='ls -l -a'
+alias lrt='ls -lrt'
+alias lt='ls --human-readable --size -1 -S --classify'
+alias count='find . -type f | wc -l'
+
+
+alias ..='cd ..'
+
+alias untar='tar -zxvf'
+
+alias idweb='kinit erw@REDMOND.CORP.MICROSOFT.COM && open -a safari https://idweb/'
+alias gs='git status'
+
+alias utc='date -u'
+alias weather='curl wttr.in'
+alias k='kubectl'
+alias kks='k -n kube-system'
+alias gd='git diff'
+alias gac='git commit -am'
+#alias minikube='minikube.exe'
+#alias docker='docker.exe'
+
+alias dev-ssh='ssh -i ~/.ssh/personal/erwdev.pem azureuser@20.187.1.223'
